@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+div{
+    margin-top: 110px;
+    margin-left:450px;
+    margin-right: 450px;
+    margin-bottom: 110;
+    width: 300px;
+    background-color: aliceblue;
+    padding: 5%;
+}
+h1{
+    text-align: center;
+}
+label{
+    color: rgb(4, 63, 63);
+    
+}
+button{
+    width: 100%;
+}
+.kochak{
+    width: 100%;
+}
+p{
+    text-align: center;
+}
